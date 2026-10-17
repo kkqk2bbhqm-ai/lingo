@@ -1,0 +1,8 @@
+sets:
+years/1..5/: capacity;
+endsets
+data:
+capacity = 12 15 13 17 11;
+enddata
+!Show the value of capacity(3);
+end
