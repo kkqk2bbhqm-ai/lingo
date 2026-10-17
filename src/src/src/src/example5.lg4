@@ -1,0 +1,8 @@
+sets:
+years/1..5/: capacity;
+endsets
+data:
+capacity(2)=34;
+capacity(3)=20;
+enddata
+end
