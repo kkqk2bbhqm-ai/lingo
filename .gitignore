@@ -1,0 +1,7 @@
+# LINGO 临时文件
+*.ltf
+*.lgr
+*.log
+*.tmp
+# Windows
+Thumbs.db
